@@ -5,8 +5,10 @@
   background-color: #111;
 }
 .row {
-  margin-left: 20px;
   color: white;
+}
+.row > h2 {
+  margin-left: 20px;
 }
 .row-posters {
   display: flex;
